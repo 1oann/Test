@@ -11,7 +11,7 @@ function compareNum(a, b) {
 // console.log(arr.length);
 // console.log(arr);
 
-//Метод позволяет гибко перебрать все элементы внутри массива
+// Метод позволяет гибко перебрать все элементы внутри массива
 // arr.forEach(function(item, i, arr) {
 //     console.log(`${i}: ${item} внутри массива ${arr}`);
 // });
