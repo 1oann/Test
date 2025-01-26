@@ -46,7 +46,7 @@
 
 // 11
 // Строки сравниваются по-символьно
-console.log("Ёжик" > "яблоко"); // false
+// console.log("Ёжик" > "яблоко"); // false
 
 // 12
-console.log(0 || "" || 2 || undefined || true || falsе); // 2
+// console.log(0 || "" || 2 || undefined || true || falsе); // 2
