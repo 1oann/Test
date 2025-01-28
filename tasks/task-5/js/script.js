@@ -30,8 +30,8 @@ const adv = document.querySelectorAll('.promo__adv img'),
       genre = poster.querySelector('.promo__genre'),
       movieList = document.querySelector('.promo__interactive-list');
 
-adv.forEach(item => {
-    item.remove();
+adv.forEach(test => {
+    test.remove();
 });
 
 // adv.forEach(function (item){
